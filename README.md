@@ -1,3 +1,7 @@
 # hello-world
 
-This is my first commit.
+This is my second commit. It is much better than the first one. It has a cat.
+
+ /\___/\
+( o x o )
+  -----
